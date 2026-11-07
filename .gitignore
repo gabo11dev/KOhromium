@@ -1,0 +1,7 @@
+/build/
+/outputs/
+**/state/
+*.pyc
+__pycache__/
+*.zip
+*.core
